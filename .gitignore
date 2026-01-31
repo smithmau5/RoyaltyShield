@@ -16,3 +16,6 @@ npm-debug.log*
 .env.local
 build/
 dist/
+
+# Backup
+.git_root_backup/
