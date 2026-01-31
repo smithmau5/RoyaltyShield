@@ -26,7 +26,7 @@ Our audit engine doesn't just look at high numbers; it searches for specific "be
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/RoyaltyShield.git
+git clone https://github.com/smithmau5/RoyaltyShield.git
 cd RoyaltyShield
 
 # Install server dependencies
